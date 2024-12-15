@@ -32,7 +32,7 @@ Fast Copy is a high-performance, multi-threaded file and directory copying progr
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/fast-copy.git
+git clone https://github.com/msn100001/fast_copy.git
 cd fast-copy
 ```
 
